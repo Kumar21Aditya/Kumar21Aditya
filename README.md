@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kumar21Aditya
+- 👋 Hi, I’m Kumar Aditya
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning btech 2nd year
 - 💞️ I’m looking to collaborate on ...
