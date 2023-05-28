@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar21aditya" alt="kumar21aditya" /></a> </p>
 
-- 🌱 I’m currently learning **Btech CSE Data Science**
+- 🌱 I’m currently persuing **Btech CSE Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science Companies**
 
