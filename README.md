@@ -1,7 +1,8 @@
 [![MasterHead](https://www.smsu.edu/resources/webspaces/academics/programs/mathematics/data-science-hero.jpg)
 <h1 align="center">Hi 👋, I'm Kumar Aditya</h1>
 <h3 align="center">A passionate Data Science Beginner from India</h3>
-<img align="right" alt="Coding" width="400"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzNmI5ZjZjOWQ0Nzg4OGY2NzJkZjQ3NzBkYTc0MWI3YjU4OGUyYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
+
 
 
 
