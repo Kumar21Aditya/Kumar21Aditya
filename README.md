@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently persuing Btech CSE Data Science<br><br>👯 I’m looking to collaborate on Data Science Companies<br><br>👨‍💻 All of my projects are available at https://github.com/Kumar21Aditya<br><br>📫 How to reach me adityapupun535@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1ESbkZE5lcm3mp9lnWZMQm5VCyB74bLPp/view?usp=share_link<br><br>⚡ Fun fact I think I can make you smile ☺</p>
+<p align="left">🌱 I’m currently persuing Btech CSE Data Science<br><br>👯 I’m looking to collaborate on Data Science Companies<br><br>👨‍💻 All of my projects are available at https://github.com/Kumar21Aditya<br><br>📫 How to reach me adityapupun535@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1nsL_6uMmx5tAsgo6dwudhi2ptN5TIsEM/view?usp=sharing<br><br>⚡ Fun fact I think I can make you smile ☺</p>
 
 ###
 
